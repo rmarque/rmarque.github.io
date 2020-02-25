@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Old Agenda Viewer</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <style type="text/css">
+  body {
+    background-color: #6C6C6C;
+	color : #ffffff;
+   }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#bob" ).datepicker();
+  } );
+  
+  function exists (f)
+  {
+   var tmp = new XMLHttpRequest ();
+    tmp.open ('HEAD', f, false);
+    tmp.send ();
+    return tmp.status != 404;
+  };
+ 
+  function loadAgenda ()
+  {
+     var fileName = "agenda " +
+                    bob.value [0] + bob.value [1] + "-" +
+     				bob.value [3] + bob.value [4] + "-" +
+     				bob.value [8] + bob.value [9] + ".html";
+     if (exists (fileName))
+     {
+       alert ("note: the date at the top of the chosen old agenda will be incorrect!");
+	   window.location = fileName;
+	 }
+	 else alert ("There is no agenda for that date; try again.");
+  };
+  </script>
+</head>
+<body>
+	<h1>Please choose a date for the old agenda you'd like to view</h1>
+   (click in the date box, choose a date, and then press the "go" button
+   to see the agenda)<br>
+<p>Date: <input type="text" id="bob"></p>
+<p><input type="button"  value="go" onClick="loadAgenda()"></p>
+</body>
+</html>
