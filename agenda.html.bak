@@ -39,10 +39,10 @@ tr th .Attention {
   </head>
   <body class="Attention" link="#E8F303"> <iframe src="http://free.timeanddate.com/clock/i5lbk2ts/n137/fn16/fs36/fcfff/tct/pct/ahl/tt1"
       allowtransparency="true" height="44" frameborder="0" width="524"></iframe>
-    <p class="Category">(No Bell Schedule - First Day of School Closure)</p>
-    <p class="Category">Click <a href="./media/remindinvite.pdf">here </a>for
-      information regarding joining my Remind group.</p>
-    <p class="Category">There will be information on this site regarding
+    <p class="Category">(No Bell Schedule - ThirdDay of School Closure)</p>
+    <p class="Category">Check your Schoology messages for information regarding
+      joining my Remind group.</p>
+    <p class="Category">There soon will be information on this site regarding
       alternative work<br>
       submission (in the case where you can't submit in the usual way).</p>
     <p class="Category"><span style="color: #52fb14;">Periods 1 and 5 - AP
@@ -60,19 +60,38 @@ tr th .Attention {
     <p class="Category"></p>
     <p class="ClassHeading">Periods 2 and 4 - Computer Science Explorations
       (CSE) </p>
-    &lt;
     <table width="690" border="2">
       <tbody>
         <tr>
-          <td style="text-align: right;"><tt><span class="Category">Activity;</span></tt></td>
+          <td style="text-align: right;"><tt><span class="Category">Task:</span></tt></td>
+          <td><tt><span class="Category">Type up and and send me as a Schoology
+                message the reflection that you wrote in your book from "the
+                naming game" (see next agenda item); the subject of this message
+                should be "Reflection - The Naming Game".<br>
+              </span></tt></td>
+        </tr>
+        <tr>
+          <td style="text-align: right;">
+            <dl>
+              <dt><tt><span class="Category">Discussion/</span></tt><tt><span class="Category"><br>
+                  </span></tt><tt><span class="Category">Notes:</span></tt></dt>
+            </dl>
+          </td>
+          <td style="height: 59.4px;"><tt><span class="Category">the naming game
+                (click <a href="./media/naminggame.pdf">here </a>for the
+                slides, textbook, pen)<br>
+              </span></tt></td>
+        </tr>
+        <tr>
+          <td style="text-align: right;"><tt><span class="Category">Activity:</span></tt></td>
           <td><tt><span class="Category">minijob 6 (digital handout, game lab<span
                   class="Imperative"></span>)</span></tt></td>
         </tr>
         <tr>
           <td style="text-align: right;"><tt><span class="Category">Activity:</span></tt></td>
           <td><tt><span class="Category">assignment 16 (digital handout, Word
-                Pad</span></tt><tt><span class="Category"><tt><span class="Category"><span
-                      class="Imperative"></span></span></tt>)<br>
+                Pad or pencil&amp;paper</span></tt><tt><span class="Category"><tt><span
+                    class="Category"><span class="Imperative"></span></span></tt>)<br>
               </span></tt></td>
         </tr>
         <tr>
@@ -80,18 +99,21 @@ tr th .Attention {
           <td><tt><span class="Category">assignment 17 (digital handout, Word
                 Pad</span></tt><tt><span class="Category"><tt><span class="Category"><span
                       class="Imperative"></span></span></tt></span></tt><tt><span
-                class="Category">)</span></tt></td>
+                class="Category"><tt><span class="Category"> or pencil&amp;paper</span></tt>)</span></tt></td>
         </tr>
         <tr>
           <td style="text-align: right;"><tt><span class="Category">Activity:</span></tt></td>
           <td><tt><span class="Category">assignment 18 (digital handout, Word
-                Pad)<br>
+                Pad</span></tt><tt><span class="Category"><tt><span class="Category">
+                    or pencil&amp;paper</span></tt>)<br>
               </span></tt></td>
         </tr>
       </tbody>
     </table>
-    <div style="text-align: center;"> make sure you have your book--you'll take
-      notes tomorrow! </div>
+    <div style="text-align: left;"> if you are unable to make up Game Lab work
+      due to technical difficulties, postpone <br>
+      that work and continue on to other assignments that don't require
+      code.org! </div>
     <p class="ClassHeading">6 - AP Computer Science A (APCSA)</p>
     <table width="699" border="2">
       <tbody>
